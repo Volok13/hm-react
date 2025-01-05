@@ -1,6 +1,6 @@
 import {FC} from "react";
 import styles from './CharacterComponent.module.css';
-import {IPerson} from "../models/IPerson.ts";
+import {IPerson} from "../../models/IPerson.ts";
 
 
 type PersonType = {
